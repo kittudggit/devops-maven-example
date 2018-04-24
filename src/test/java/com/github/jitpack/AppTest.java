@@ -19,5 +19,5 @@ public class AppTest
     public void testTrue()
     {
         assertTrue( true );
-    }
+    }    
 }   
